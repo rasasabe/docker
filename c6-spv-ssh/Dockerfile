@@ -1,6 +1,6 @@
 FROM centos:centos6
 
-MAINTAINER kitamura@com-way.co.jp
+MAINTAINER rasasabe@users.noreply.github.com
 
 # EPEL
 RUN yum install -y --nogpgcheck http://dl.iuscommunity.org/pub/ius/stable/Redhat/6/x86_64/epel-release-6-5.noarch.rpm
