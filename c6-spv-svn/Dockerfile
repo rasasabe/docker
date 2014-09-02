@@ -2,8 +2,6 @@ FROM kitamura/c6-spv-ssh
 
 MAINTAINER rasasabe@users.noreply.github.com
 
-ENV http_proxy http://proxy:port
-
 # init
 RUN yum install -y --nogpgcheck wget
 
