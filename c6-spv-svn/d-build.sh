@@ -1,1 +1,1 @@
-docker build -t kitamura/c6-spv-ssh .
+docker build -t kitamura/c6-spv-svn .
