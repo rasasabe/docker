@@ -1,1 +1,1 @@
-docker build -t kitamura/c6-spv-svn .
+docker build -t --force-rm=true kitamura/c6-spv-svn .
